@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/exploded-aar/com.android.volley/gvolley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e2aae223872a1c4d92084b402f45301c4e9ab7e">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/classes-8cde6844e031b6c567bd58b2aef919dd4b602c9b.jar" />
+    </item>
+    <item
+        jar="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/classes-d1cdc3df4a2d63dd6323b1b13fd022e66a956efa.jar" />
+    </item>
+    <item
+        jar="/Users/sourabhsp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-656b8a361bd57ad050e48fc2663c052808eeb0e5.jar" />
+    </item>
+    <item
+        jar="/Users/sourabhsp/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.4/1c295b462f16702ebe720bbb08f62e1ba80da41b/joda-time-2.9.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/joda-time-2.9.4-3e594208a97f094025e549021407627dae7fff93.jar" />
+    </item>
+    <item
+        jar="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/classes-24a34632bd325ba19e9b50ff65c6e5a893bd26c1.jar" />
+    </item>
+    <item
+        jar="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/classes-342a512cec2a1b9c5f4c9eb5dfa08f15d8f176dc.jar" />
+    </item>
+    <item
+        jar="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/classes-93bfe54dff9444b3e4c5493ab3064130333d554a.jar" />
+    </item>
+    <item
+        jar="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/sourabhsp/Downloads/MavsAdvising/MavsAdvising/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-a549a9666ccb3e2a693b529f9d493c3f63dbeee3.jar" />
+    </item>
+
+</items>

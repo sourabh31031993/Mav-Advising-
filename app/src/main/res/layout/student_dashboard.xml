@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="396dp"
+        android:layout_height="47dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Student Home Screen"
+        android:id="@+id/student_dashboard" />
+
+    <TextView
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/student_welcome_msg"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.12" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Schedule Appointment"
+        android:id="@+id/BTNStudentSchedule"
+        android:onClick="onButtonClick" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="View/Cancel Appointment"
+        android:id="@+id/BTNStudentView"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onButtonClick" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Log Out"
+        android:id="@+id/BTNLogOut"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onButtonClick"/>
+
+</LinearLayout>
